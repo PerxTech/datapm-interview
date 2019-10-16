@@ -1,4 +1,4 @@
-# datapm-interview
+# Perx Data Product Manager Interview
 
 ## A) Product Design
 
