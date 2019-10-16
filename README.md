@@ -1,4 +1,4 @@
-# Perx Data Product Manager Interview
+# Perx Product Manager (Data) Interview
 
 ## A) Product Design
 
