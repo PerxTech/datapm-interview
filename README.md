@@ -37,7 +37,7 @@ Identify suitable data sets to define usable data charts/graphs
 
 ### Task:
 
-Propose actionable recommendations based on the proposed insights and reports in Task A for which customers are willing to spend money.
+Propose actionable recommendations based on the insights and reports derived from Task A for which customers are willing to spend money.
 
 ## C) SQL Test
 
