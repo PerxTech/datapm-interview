@@ -32,7 +32,14 @@ We would like to story-tell with the high volume of campaign related information
 
 Identify suitable data sets to define usable data charts/graphs
 
-## B) SQL Test
+
+## B) Product Monetization
+
+### Task:
+
+Propose actionable recommendations based on the proposed insights and reports in Task A for which customers are willing to spend money.
+
+## C) SQL Test
 
 ### Prerequisite:
 
